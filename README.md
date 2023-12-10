@@ -12,6 +12,10 @@ Internet Gateway use to give public access to subnet
 4. NAT(Network Address Translation) Gateway
 NAT Gateway is used to give internet access of Private Subnet using Public Subnet
 
+# Architecture
+![image](https://github.com/shubhamkale119/VPC-to-VPC-Peering/assets/128287182/9cc29a5e-e995-45f0-9470-47bc521cab2b)
+
+
 # Hands on with AWS
 
 # First VPC
