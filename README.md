@@ -26,7 +26,7 @@ NAT Gateway is used to give internet access of Private Subnet using Public Subne
 2. Also Create Public subnet with IP addresses:
 ![image](https://github.com/shubhamkale119/VPC-to-VPC-Peering/assets/128287182/8778d542-e569-4aa8-a999-97c0c558056b)
 
-3. Create EC2 instance in that VPC: You have to give auto IP assign to vpc without that we not able to access ec2 instace publically
+3. Create EC2 instance in that VPC: You have to enable auto IP assign to vpc without that we not able to access ec2 instace publically
 ![image](https://github.com/shubhamkale119/VPC-to-VPC-Peering/assets/128287182/0821f1d5-e6b9-44b6-b992-031584030832)
 
 4. Create Internet Gateway And attach to vpc
